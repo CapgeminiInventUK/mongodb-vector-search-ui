@@ -1,0 +1,23 @@
+/* src/style.css */
+
+td {
+    white-space: pre-wrap;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+a {
+    color: #016AF8;
+}
+
+body {
+    margin: 0;
+}
+
+

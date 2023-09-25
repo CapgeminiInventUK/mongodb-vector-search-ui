@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "20.6.5",
+    "typescript": "5.2.2"
+  },
+  "workspaces": [
+    "server",
+    "ui"
+  ]
+}
