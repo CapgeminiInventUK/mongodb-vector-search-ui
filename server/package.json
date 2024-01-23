@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@types/express": "4.17.18",
-    "concurrently": "8.2.1",
+    "concurrently": "8.2.2",
     "nodemon": "3.0.1"
   }
 }
